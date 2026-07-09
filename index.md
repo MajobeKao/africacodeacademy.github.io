@@ -10,7 +10,7 @@ Welcome to our cohort website. We are a group of aspiring software engineers lea
 
 Our cohort focuses on improving technical skills, teamwork, communication, and problem-solving through practical projects.
 
-## Reach me here
+## Team member
 - Majobe Kao - [GitHub Profile](https://github.com/MajobeKao/africacodeacademy.github.io)
 
 
